@@ -1,6 +1,6 @@
 {
   "name": "node-sap-logging",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Logging library for node.js with a bunyan compatible output format",
   "repository": {
     "type": "git",
